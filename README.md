@@ -35,6 +35,6 @@ A simple and interactive Tic-Tac-Toe game where two players can play on the same
 
 ## 🔗 Live Demo
 
-🔗 [View Live](https://your-username.github.io/todo-web-app)
+🔗 [View Live]  https://tishajoshi.github.io/SCT_WD_3/
 
 
